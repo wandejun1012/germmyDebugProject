@@ -1,0 +1,7 @@
+22:55:41,938  WARN Client1:15 - helloworld
+22:56:18,207  WARN Clerk:30 - Thread Name is :Thread-0, 开始日期是:Tue Mar 26 22:55:41 CST 2013
+22:56:18,207  WARN Clerk:31 - Thread Name is :Thread-0, 结束日期是:Tue Mar 26 22:56:18 CST 2013
+22:56:18,207  WARN Clerk:32 - Thread Name is :Thread-0, 相隔时间为:36
+22:56:21,275  WARN Clerk:30 - Thread Name is :Thread-1, 开始日期是:Tue Mar 26 22:55:41 CST 2013
+22:56:21,276  WARN Clerk:31 - Thread Name is :Thread-1, 结束日期是:Tue Mar 26 22:56:21 CST 2013
+22:56:21,276  WARN Clerk:32 - Thread Name is :Thread-1, 相隔时间为:39
